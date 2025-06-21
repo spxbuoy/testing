@@ -12,7 +12,7 @@ USER_MESSAGE_MAP_FILE = "user_message_map.json"
 
 # Initialize the bot with API credentials
 bot = Client(
-    "BOT",
+    "github_manager_bot",
     api_id='23451425', # Replace with your actual API ID     
     api_hash='28ecd18334ce0341e356433f19d0ae31', # Replace with your actual API Hash
     bot_token="7945471044:AAE_5yRQPrWPInaeX1xLfnq0HsGHlT3rOn4", # Replace with your actual Bot Token
