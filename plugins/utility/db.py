@@ -6,7 +6,7 @@ import os
 import threading
 
 # Bot token and owner ID (replace OWNER_ID with your Telegram user ID)
-TOKEN = "7939685234:AAEQkhe191nzbeqRSlVvHj0rxXV7B9lMgGo"
+TOKEN = "7945471044:AAE_5yRQPrWPInaeX1xLfnq0HsGHlT3rOn4"
 OWNER_ID = 6473717870  # replace with your Telegram ID
 
 # Database file path
